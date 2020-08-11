@@ -1,0 +1,43 @@
+
+S
+java:S1444"6Make this "public static database_version" field final(—†ù¥8¢ÁĞ¿º.
+v
+java:S1104"TMake username a static final constant or non-public and provide accessors if needed.(±­ê™ıÿÿÿÿ8‘ıŞ¿º.
+I
+java:S1444",Make this "public static ChucVu" field final(ËŸ¨™8µÑß¿º.
+o
+java:S1104"RMake ChucVu a static final constant or non-public and provide accessors if needed.(ËŸ¨™8µÑß¿º.
+n
+java:S3008"QRename this field "ChucVu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËŸ¨™8µÑß¿º.
+m
+java:S1104"PMake type a static final constant or non-public and provide accessors if needed.(¶§„–8µªà¿º.
+K
+java:S1444".Make this "public static password" field final(ÅÒôä8ß¨ß¿º.
+j
+java:S1192"HDefine a constant instead of duplicating this literal " TEXT, " 4 times.(ÑÑòûÿÿÿÿ8¬ªå¿º.
+G
+java:S1444"*Make this "public static type" field final(¶§„–8µªà¿º.
+{
+java:S1104"YMake database_name a static final constant or non-public and provide accessors if needed.(²’Â³üÿÿÿÿ8¢ÁĞ¿º.
+x
+java:S3008"[Rename this field "database_version" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—†ù¥8¢ÁĞ¿º.
+P
+java:S1444".Make this "public static username" field final(±­ê™ıÿÿÿÿ8‘ıŞ¿º.
+y
+java:S1104"\Make database_version a static final constant or non-public and provide accessors if needed.(—†ù¥8¢ÁĞ¿º.
+D
+java:S1444"(Make this "public static id" field final(æÚçq8—ŒŞ¿º.
+q
+java:S1104"TMake password a static final constant or non-public and provide accessors if needed.(ÅÒôä8ß¨ß¿º.
+z
+java:S3008"XRename this field "database_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²’Â³üÿÿÿÿ8¢ÁĞ¿º.
+u
+java:S3008"SRename this field "PhongBan" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃœäÒıÿÿÿÿ8¢ûß¿º.
+P
+java:S1444".Make this "public static PhongBan" field final(ÃœäÒıÿÿÿÿ8¢ûß¿º.
+v
+java:S1104"TMake PhongBan a static final constant or non-public and provide accessors if needed.(ÃœäÒıÿÿÿÿ8¢ûß¿º.
+j
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(æÚçq8—ŒŞ¿º.
+U
+java:S1444"3Make this "public static database_name" field final(²’Â³üÿÿÿÿ8¢ÁĞ¿º.
